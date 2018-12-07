@@ -1,0 +1,50 @@
+Does a new supplement help people sleep better?
+	Two versions
+		Have the old and new version of the supplement available to test subjects
+	Sample
+		Test subjects should be chosen from a diverse population with varying characteristics like race, gender and age groups
+	Hypothesis
+		I expect the new supplement will give test subjects longer and more restful sleep.  
+	Outcomes
+		Subjects will report back the number hours slept daily and rate their sleep quality.
+	Other measured variables
+		I would also ask for the test subjects' type of occupation.  Certain jobs have certain level stress that might hinder them from devoting enough time to use the product.  I would measure the amount of time allocated to sleep time whil 
+
+Will new uniforms help a gym's business?
+	Two versions
+		Have employees from different branches of the same gym wear different uniform 
+	Sample
+		For a gym business with multiple branches, we branches that are located within the same geographic area so we can avoid demographic variables as much as possible.
+	Hypothesis
+		I would expect increase in membership referrals, renewals, and more positive reviews by our members
+	Outcomes
+		I would count the number of membership referrals, renewals and member survey overall satisfaction score 
+	Other measured variables
+		I would also count members that didn't renew and account for the time of the year where there is a surge of new membership
+
+Will a new homepage improve my online exotic pet rental business?
+	Two versions
+		Users is randomly redirectly to either the original version or the test version of the web site
+	Sample
+		The web server routes the incoming session request to either version of the web site and remembers the source ip of the user so it will always get the same version of the site
+	Hyppthesis
+		I would expect to see increase in orders with the new homepage
+	Outcomes
+		I would count the number of orders for both versions of the web site
+	Other measured variables
+		I would account for the average order value between the two web sites
+
+If I put 'please read' in the email subject will more people read my emails?
+	Two versions
+		User email style is randomly selected before the email web site sends out a reminder email
+	Sample
+		I would have two sets of recipients with varying degree of rank in the corporate hierarchy.  I would send the same message with the two different email templates
+	Hyppthesis
+		I would expect to see increase in replies with the new email style
+	Outcomes
+		I would count the responses to my emails
+	Other measured variables
+		I would also try different fonts and colors for the text 'please read'
+
+
+
